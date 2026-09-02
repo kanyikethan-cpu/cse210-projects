@@ -9,7 +9,7 @@ class Program
 
        while(userNumber!=0)
         {
-            Console.Write("Enter a number other than 0 that you want to input? ");
+            Console.Write("Enter any number of your choice other than 0 that you want to input? ");
             string response=Console.ReadLine();
             userNumber=int.Parse(response);
 
