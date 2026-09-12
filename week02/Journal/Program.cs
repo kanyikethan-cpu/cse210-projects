@@ -1,5 +1,5 @@
 using System;
-
+ // Displays the total number of entries currently stored when someone chooses to display the journal
 class Program
 {
     static void Main(string[] args)
